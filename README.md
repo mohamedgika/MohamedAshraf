@@ -2,7 +2,7 @@
 
 
   <img align="left" src="https://github.com/mohamedgika/mohamedgika/assets/61559740/1e097f9f-4293-45a5-b11a-9e267407d974" width="300">
-  <div align="right">
+  <div>
   I am a Backend Developer from Egypt.<br>
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.

@@ -3,7 +3,7 @@
 
   <img align="left" src="https://github.com/mohamedgika/mohamedgika/assets/61559740/1e097f9f-4293-45a5-b11a-9e267407d974" width="300">
   
-  <li>I am a Backend Developer from Egypt.</li><br><br>
+  <li>I am a Backend Developer from Egypt.</li></br></br>
   <li>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
   <li>🌱 Exploring Technical Content Writing.</li>
   <li>⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.</li>

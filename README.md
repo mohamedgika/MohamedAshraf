@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Backend Developer <img src="![image](https://github.com/mohamedgika/mohamedgika/assets/61559740/bb92e8ee-f7d9-4d8b-a2ab-495a798943f0)" width="30"> from Egypt.
+I am a Backend Developer <img src="<iframe src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="30"> from Egypt.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.

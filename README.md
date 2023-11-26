@@ -5,8 +5,8 @@
   
   <li>I am a Backend Developer from Egypt.</li></br>
   <li style="text-align: center;">🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
-  <li>🌱 Exploring Technical Content Writing.</li>
-  <li>⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.</li>
+  <li style="text-align: center;">🌱 Exploring Technical Content Writing.</li>
+  <li style="text-align: center;">⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.</li>
   
 
 ![5](https://user-images.githubusercontent.com/61559740/223878312-f537ef1f-528f-4f04-919b-b25ad2d77730.svg)

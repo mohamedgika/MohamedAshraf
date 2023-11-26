@@ -7,7 +7,7 @@
   <li>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
   <li>🌱 Exploring Technical Content Writing.</li>
   <li>⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.</li>
-  <li>📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MohamedAshraf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ashraf-sobhy-562026222/)</li>
+  📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MohamedAshraf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ashraf-sobhy-562026222/)
 
 ![5](https://user-images.githubusercontent.com/61559740/223878312-f537ef1f-528f-4f04-919b-b25ad2d77730.svg)
 

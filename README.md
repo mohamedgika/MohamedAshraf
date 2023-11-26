@@ -1,7 +1,7 @@
 ### :woman_technologist: &nbsp;About Me :
 
 <div>
-  <img src="https://github.com/mohamedgika/mohamedgika/assets/61559740/1e097f9f-4293-45a5-b11a-9e267407d974" width="300"> I am a Backend Developer from Egypt.
+  <img align="left" src="https://github.com/mohamedgika/mohamedgika/assets/61559740/1e097f9f-4293-45a5-b11a-9e267407d974" width="300"> I am a Backend Developer from Egypt.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
